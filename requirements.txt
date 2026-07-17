@@ -1,0 +1,30 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# Google Gemini integration
+langchain-google-genai
+google-generativeai
+langchain-chroma
+
+# Vector store
+langchain-chroma
+chromadb
+
+# Environment variable management
+python-dotenv
+
+# Document loading / parsing (common for RAG pipelines)
+pypdf
+tiktoken
+
+# Unstructured (PDF loading via hosted API — avoids local llvmlite/numba build issues)
+langchain-unstructured
+unstructured-client
+unstructured
+python-magic
+
+# Optional: for building a quick UI/demo
+streamlit
